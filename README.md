@@ -19,3 +19,12 @@
          
 </div>    
 
+<div align="center">
+
+### Minhas Estatísticas
+
+ <br>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RonMakaveli&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RonMakaveli&layout=compact&langs_count=7&theme=nightowl"/>
+
+</div>
